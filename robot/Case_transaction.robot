@@ -11,7 +11,7 @@ Resource    .//select_credit.robot
 Resource    .//input5000.robot
 #Resource    .//addcashback.robot
 Resource    .//selectdate.robot
-#Resource    .//delete.robot
+
 *** Variables ***
 ${REMOTE_URL}   http://127.0.0.1:9000/wd/hub
 ${platformName}    Android
